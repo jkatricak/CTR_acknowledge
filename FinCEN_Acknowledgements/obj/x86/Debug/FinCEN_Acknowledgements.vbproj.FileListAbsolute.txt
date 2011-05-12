@@ -1,0 +1,22 @@
+C:\Documents and Settings\jkatricak\Local Settings\Application Data\Temporary Projects\FinCEN_Acknowledgements\bin\Debug\FinCEN_Acknowledgements.exe
+C:\Documents and Settings\jkatricak\Local Settings\Application Data\Temporary Projects\FinCEN_Acknowledgements\bin\Debug\FinCEN_Acknowledgements.pdb
+C:\Documents and Settings\jkatricak\Local Settings\Application Data\Temporary Projects\FinCEN_Acknowledgements\bin\Debug\FinCEN_Acknowledgements.xml
+C:\Documents and Settings\jkatricak\Local Settings\Application Data\Temporary Projects\FinCEN_Acknowledgements\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jkatricak\Local Settings\Application Data\Temporary Projects\FinCEN_Acknowledgements\obj\x86\Debug\FinCEN_Acknowledgements.Form1.resources
+C:\Documents and Settings\jkatricak\Local Settings\Application Data\Temporary Projects\FinCEN_Acknowledgements\obj\x86\Debug\FinCEN_Acknowledgements.Resources.resources
+C:\Documents and Settings\jkatricak\Local Settings\Application Data\Temporary Projects\FinCEN_Acknowledgements\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jkatricak\Local Settings\Application Data\Temporary Projects\FinCEN_Acknowledgements\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\jkatricak\Local Settings\Application Data\Temporary Projects\FinCEN_Acknowledgements\obj\x86\Debug\FinCEN_Acknowledgements.exe
+C:\Documents and Settings\jkatricak\Local Settings\Application Data\Temporary Projects\FinCEN_Acknowledgements\obj\x86\Debug\FinCEN_Acknowledgements.xml
+C:\Documents and Settings\jkatricak\Local Settings\Application Data\Temporary Projects\FinCEN_Acknowledgements\obj\x86\Debug\FinCEN_Acknowledgements.pdb
+C:\Documents and Settings\jkatricak\My Documents\CodeSamples\FinCEN_Acknowledgements\FinCEN_Acknowledgements\obj\x86\Debug\FinCEN_Acknowledgements.exe
+C:\Documents and Settings\jkatricak\My Documents\CodeSamples\FinCEN_Acknowledgements\FinCEN_Acknowledgements\obj\x86\Debug\FinCEN_Acknowledgements.xml
+C:\Documents and Settings\jkatricak\My Documents\CodeSamples\FinCEN_Acknowledgements\FinCEN_Acknowledgements\obj\x86\Debug\FinCEN_Acknowledgements.pdb
+C:\Documents and Settings\jkatricak\My Documents\CodeSamples\FinCEN_Acknowledgements\FinCEN_Acknowledgements\bin\Debug\FinCEN_Acknowledgements.exe
+C:\Documents and Settings\jkatricak\My Documents\CodeSamples\FinCEN_Acknowledgements\FinCEN_Acknowledgements\bin\Debug\FinCEN_Acknowledgements.pdb
+C:\Documents and Settings\jkatricak\My Documents\CodeSamples\FinCEN_Acknowledgements\FinCEN_Acknowledgements\bin\Debug\FinCEN_Acknowledgements.xml
+C:\Documents and Settings\jkatricak\My Documents\CodeSamples\FinCEN_Acknowledgements\FinCEN_Acknowledgements\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jkatricak\My Documents\CodeSamples\FinCEN_Acknowledgements\FinCEN_Acknowledgements\obj\x86\Debug\FinCEN_Acknowledgements.Form1.resources
+C:\Documents and Settings\jkatricak\My Documents\CodeSamples\FinCEN_Acknowledgements\FinCEN_Acknowledgements\obj\x86\Debug\FinCEN_Acknowledgements.Resources.resources
+C:\Documents and Settings\jkatricak\My Documents\CodeSamples\FinCEN_Acknowledgements\FinCEN_Acknowledgements\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jkatricak\My Documents\CodeSamples\FinCEN_Acknowledgements\FinCEN_Acknowledgements\obj\x86\Debug\GenerateResource.write.1.tlog
